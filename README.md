@@ -59,6 +59,8 @@ npm start
 
 ## ```HOW TO DEPLOY```
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/DevepBot/Hitomistore-)
+
 [`Click Here For Tutorial`](https://youtu.be/U1suj4wuWvc)<br>
 
 ----------
