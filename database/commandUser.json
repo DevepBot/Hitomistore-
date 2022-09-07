@@ -1,0 +1,43 @@
+[
+  {
+    "jid": "6282192838943@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 5
+      },
+      {
+        "nama": "#removebg",
+        "count": 2
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#ban",
+        "count": 1
+      },
+      {
+        "nama": "#topbalance",
+        "count": 1
+      },
+      {
+        "nama": "#menfess",
+        "count": 2
+      },
+      {
+        "nama": "#delete",
+        "count": 1
+      }
+    ]
+  }
+]
